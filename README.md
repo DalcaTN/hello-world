@@ -1,2 +1,2 @@
-# hello-world
-This is just a hello world repository. Hello, world!
+# hello-europe
+This is not just for everyone, but just for Europe! Hi there :-)
